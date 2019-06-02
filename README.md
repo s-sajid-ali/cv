@@ -1,6 +1,6 @@
 # CV
 
-Template forked from [1](https://github.com/adamjstewart/cv)
+Template forked from [cv](https://github.com/adamjstewart/cv)
 
 ## Design
 
